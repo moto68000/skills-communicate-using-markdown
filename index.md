@@ -16,6 +16,12 @@ const codeOfSteel = "Your Complexity , Your runtime what's the difference"
  rpg = "Leeet's code"
 ```
 
+- [x] Go to L.A.R.D's Headquarters
+- [x] Buy enough BubbleGum
+- [x] Lift Weights
+- [ ] Watch Openhaimer
+  
+
 
 
 
